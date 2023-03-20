@@ -16,6 +16,11 @@ h1 {
     margin: 20px 0; 
 }
 
+h2 {
+    text-align: center;
+    margin: 15px 0;
+}
+
 .center {
     text-align: center;
 }
@@ -33,6 +38,22 @@ li {
     float: left;
     padding: 10px;
     
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:active {
+    color: #bd93f9;
+}
+
+.content {
+    margin: 0px 25%;
 }
 
 @font-face {
