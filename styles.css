@@ -46,6 +46,10 @@ div {
     background: #000000da;
 }
 
+.center {
+    text-align: center;
+}
+
 #title {
     margin-top: 50px;
 }
